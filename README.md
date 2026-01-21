@@ -4,3 +4,4 @@ This repository contain papers related to current project.
 2. [MoonShine: Optimizing OS Fuzzer Seed Selection with Trace Distillation](https://wcventure.github.io/FuzzingPaper/Paper/USENIX18_MoonShine.pdf)
 3. [Horus: Accelerating Kernel Fuzzing through Efficient Host-VM Memory Access Procedures](https://dl.acm.org/doi/10.1145/361166)
 4. [Optimizing Input Minimization in Kernel Fuzzing](https://www.usenix.org/system/files/atc25-guo.pdf)
+5. [V-Shuttle: Scalable and Semantics-Aware Hypervisor Virtual Device Fuzzing](https://dl.acm.org/doi/10.1145/3460120.3484811)
